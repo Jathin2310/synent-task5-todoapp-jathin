@@ -22,12 +22,12 @@ It is a modern and responsive To-Do List Web Application built using HTML, CSS, 
 - localStorage API
 
 ## Project Structure
-project-folder/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+-project-folder/
+-│
+-├── index.html
+-├── style.css
+-├── script.js
+-└── README.md
 
 ## How to Run
 1. Download or clone the repository.
